@@ -1,0 +1,6 @@
+ Keystore alias_name : allorepar
+
+ Keystore Password : android
+
+
+Created on : 17/06/2020
